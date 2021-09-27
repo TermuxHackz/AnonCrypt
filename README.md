@@ -16,7 +16,7 @@ AnonCrypt is quite easy to use and doesn't require much time,  it is also fast s
 #### [+] Ciphering of Texts
 #### [+] Diciphering of Texts
 #### [+] Showing Current System
-#### [+] Stars a HTTP server for you to get more Tools.
+#### [+] Starts a HTTP server for you to get more Tools.
 
 
 # Installation on Termux
