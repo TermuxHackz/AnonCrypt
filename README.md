@@ -11,7 +11,7 @@ Nodejs and HTML
 AnonCrypt is quite easy to use and doesn't require much time,  it is also fast since it is made with nodejs, all you need do is to install necessary modules needed for it to work and it should work fine. 
 
 # Features of AnonCrypt
-<p align="center">AnonCrypt is a tool made in nodejs,  which has few features which are useless for what it is intended for. It has features like: </p>
+<p align="center">AnonCrypt is a tool made in nodejs,  which has few features which are useful for what it is intended for. It has features like: </p>
 
 #### [+] Ciphering of Texts
 #### [+] Diciphering of Texts
