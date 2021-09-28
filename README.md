@@ -71,7 +71,7 @@ This tool has been tested on the following systems:
 ![](donations.jpeg) 
 <br>
 <p>If you appreciate or love AnonyminHack5 works and projects feel free to support me via PayPal. 
-You can send your donations to he's paypal <a href="https://paypal.me/kwasconcept" target="_blank">here</a></p>
+You can send your donations to he's paypal <a href="https://paypal.me/kwasconcept" alt="donate" target="_blank">here</a></p>
 
 
 # Version
@@ -81,7 +81,7 @@ Version 1.0 beta
 
 
 # Notice Bugs? 
-If you use my anoncrypy and you notice bugs in em feel free to email me those bugs and i will try fix them. 
+If you use my AnonCrypt and you notice bugs in em feel free to email me those bugs and i will try fix them. 
 Report those bugs to me <a href="mailto:AnonyminHack5@protonmail.com" target="_blank">here</a>. 
 
 <h5>Thanks alot for the support</h5>
