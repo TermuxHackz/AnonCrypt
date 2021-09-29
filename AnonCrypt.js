@@ -51,20 +51,20 @@ const main = () => {
       let encrypted = cipher.update(message, "utf8", "hex")
       encrypted += cipher.final("hex")
       console.log("\x1b[93mCiphered Text is:", encrypted)
-	  return
-	}
+      return
+      }
 
     case 2: {
       const message = prompt("Enter text to decrypt: ")
       let decrypted = decipher.update(message, "hex", "utf8")
       decrypted += decipher.final("utf8")
       console.log("\x1b[94mDiciphered Text is:", decrypted)
-	  return
-	}
+      return
+      }
 
     case 3:
       console.log(`Your current system is a: ${os.platform} system`)
-	  return
+      return
 
     case 4:
       const http = require("http");
