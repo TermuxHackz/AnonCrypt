@@ -8,7 +8,7 @@ Nodejs and HTML
 <h5>AnonyminHack5</h5>
 
 # How to use? 
-AnonCrypt is quite easy to use and doesn't require much time,  it is also fast since it is made with nodejs, all you need do is to install necessary modules needed for it to work and it should work fine. 
+AnonCrypt is quite easy to use and doesn't require much time. It is also fast since it is made with nodejs, all you need do is to install necessary modules needed for it to work and it should work fine. 
 
 # Features of AnonCrypt
 <p align="center">AnonCrypt is a tool made in nodejs,  which has few features which are useful for what it is intended for. It has features like: </p>
@@ -21,45 +21,36 @@ AnonCrypt is quite easy to use and doesn't require much time,  it is also fast s
 
 # Installation on Termux
 ```
-pkg update
-pkg upgrade 
-pkg install nodejs
-pkg install npm
+pkg install nodejs npm
+
 npm install -g npm
-npm install init
+
 git clone https://github.com/TermuxHackz/AnonCrypt
+
 cd AnonCrypt
-npm init -y
-npm install crypto
-npm install prompt-sync
-node AnonCrypt.js
+
+npm i
+
+node AnonCrypt
 ```
 
 # Installation in Linux/Ubuntu
 ```
-sudo apt-get install python-software-properties
+sudo apt install python-software-properties
 
 sudo apt-add-repository ppa:chris-lea/node.js
 
-sudo apt-get update
+sudo apt update
 
-sudo apt-get install nodejs npm
-
-sudo apt-get install nodejs
-
-npm install init
+sudo apt install nodejs npm
 
 git clone https://github.com/TermuxHackz/AnonCrypt
 
 cd AnonCrypt
 
-npm init -y
+npm i
 
-npm install crypto
-
-npm install prompt-sync
-
-node AnonCrypt.js
+node AnonCrypt
 ```
 
 # Tested on
