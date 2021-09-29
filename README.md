@@ -27,6 +27,8 @@ pkg install nodejs
 pkg install npm
 npm install -g npm
 npm install init
+git clone https://github.com/TermuxHackz/AnonCrypt
+cd AnonCrypt
 npm init -y
 npm install crypto
 npm install prompt-sync
@@ -46,6 +48,10 @@ sudo apt-get install nodejs npm
 sudo apt-get install nodejs
 
 npm install init
+
+git clone https://github.com/TermuxHackz/AnonCrypt
+
+cd AnonCrypt
 
 npm init -y
 
